@@ -1,3 +1,3 @@
 # GeeksforGeeks
 
-Solved Question Of GeeksforGeeks
+Solved Questions Of GeeksforGeeks
